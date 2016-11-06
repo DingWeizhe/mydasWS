@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "ws": "^1.1.1"
+  },
+  "name": "mydas-ws",
+  "version": "1.0.0",
+  "description": "mydas websocket client & server",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DingWeizhe/mydasWS.git"
+  },
+  "keywords": [
+    "websocket",
+    "mydas"
+  ],
+  "author": "d.weizhe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DingWeizhe/mydasWS/issues"
+  },
+  "homepage": "https://github.com/DingWeizhe/mydasWS#readme"
+}
